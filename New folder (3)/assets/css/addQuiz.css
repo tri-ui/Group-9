@@ -1,0 +1,68 @@
+.container-form {
+  width: 70%;
+  height: 500px;
+  position: relative;
+  left: 15%;
+  margin-top: 15vh;
+  border: 1px solid black;
+  font-family: Acme, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 10px;
+  height: 65px;
+  color: White;
+  padding: 10px;
+  /*border-radius: 20px;*/
+  background: #007bff;
+}
+
+.question-input {
+  width: 90%;
+  height: 100px;
+  margin-left: 5%;
+  margin-right: 5%;
+  resize: none;
+}
+
+.btn-save {
+  width: 10%;
+  border-color: rgb(255, 255, 255);
+  margin-top: 10px;
+  margin-left: 37.5%;
+  background: #007bff;
+  min-width: 96px;
+}
+
+.btn-cancel {
+  width: 10%;
+  border-color: rgb(255, 255, 255);
+  margin-top: 10px;
+  margin-left: 5%;
+  margin-right: 37.5%;
+  background: #007bff;
+  min-width: 96px;
+}
+
+.input-row {
+  width: 85%;
+  border-style: none;
+}
+
+.radio-row {
+  width: 5%;
+  border-style: none;
+}
+
+.remove-row {
+  width: 10%;
+  border-style: none;
+}
+
+.table-container {
+  margin-left: 5%;
+  width: 90%;
+  margin-right: 5%;
+}
+
